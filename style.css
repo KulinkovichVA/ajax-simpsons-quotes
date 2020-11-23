@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+
+img {
+    height: 200px;
+}
+
+#showBtn {
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border-radius: 20%;
+}
+
+#showBtn:focus {
+    outline: none;
+}
